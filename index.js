@@ -2,7 +2,7 @@
 
 let nomeDoHeroi = "Zezinhho da Velocidade" 
 let xpDoHeroi = "7.356"
-let rankFerro = "1.001"
+let rankFerro = "1.000"
 let rankBronze = "1.001 e 2.000"
 let rankPrata = "2.001 e 5.000"
 let rankOuro = "5.001 e 7.000"
